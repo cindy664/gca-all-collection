@@ -444,12 +444,9 @@
       "abbreviation": "UWyo",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 17",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 17"
     },
     {
       "item": "coding-for-web",
@@ -459,12 +456,9 @@
       "abbreviation": "UWyo",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 17",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 17"
     },
     {
       "item": "data-analytics",
@@ -474,12 +468,9 @@
       "abbreviation": "UWyo",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 17",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 17"
     },
     {
       "item": "coding-for-data",
@@ -489,12 +480,9 @@
       "abbreviation": "UWyo",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 17",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 17"
     },
     {
       "item": "career-rotation",
@@ -504,12 +492,9 @@
       "abbreviation": "UWyo",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "COMP 4000 (Summer • CRN: 28806)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 26",
-      "term1EndDate": "July 17",
-      "term2StartDate": "August 31",
-      "term2EndDate": "December 11"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 26",
+      "endDate": "July 17"
     },
     {
       "item": "reserve-a-seat",
@@ -525,12 +510,12 @@
       "phone": "(307) 364-3024"
     }
   ],
-  "fau": [
+  "0014t00000n19uoqab": [
     {
       "item": "home",
       "schoolname": "Florida Atlantic University",
-      "abbreviation": "FAU",
-      "genericProgramName": "The Global Career Accelerator",
+      "abbreviation": null,
+      "genericProgramName": null,
       "secondaryBrandColor": "#CC0000",
       "primaryBrandColor": "#013366",
       "buttonColor": "#CC0000",
@@ -538,21 +523,21 @@
       "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/fau.png",
       "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/fau.png",
       "partner_id": "0014T00000N19uoQAB",
-      "programName": "FAU Global Career Accelerator",
-      "termsandConditionsPolicy": "https://www.fau.edu/privacypolicy.php",
+      "programName": null,
+      "termsandConditionsPolicy": null,
       "registrationMessage": "Registration is now open.",
-      "credits": "6 FAU credits",
+      "credits": "6  credits",
       "startDate": "May 16",
       "endDate": "August 7"
     },
     {
       "item": "about",
       "schoolname": "Florida Atlantic University",
-      "genericProgramName": "The Global Career Accelerator",
+      "genericProgramName": null,
       "schoolFullAddress": "Gladys Davis Pavilion, W University Dr, Boca Raton, FL 33431",
-      "abbreviation": "FAU",
-      "phone": "(561) 299-3035",
-      "credits": "6 FAU credits",
+      "abbreviation": null,
+      "phone": null,
+      "credits": "6  credits",
       "programFee": "+ 1,800",
       "seasonYear": "Summer 2026",
       "term": "Summer",
@@ -561,117 +546,102 @@
     },
     {
       "item": "explore-tracks",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "credits": "6  credits",
+      "abbreviation": null,
       "registrationMessage": "Registration is now open."
     },
     {
       "item": "digital-marketing",
       "schoolname": "Florida Atlantic University",
       "trackTitle": "Digital Marketing Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "credits": "6  credits",
+      "abbreviation": "",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-web",
       "schoolname": "Florida Atlantic University",
-      "trackTitle": "Web Development for Everyone Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "trackTitle": "Coding for Web Track",
+      "credits": "6  credits",
+      "abbreviation": "",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "data-analytics",
       "schoolname": "Florida Atlantic University",
       "trackTitle": "Data Analytics Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "credits": "6  credits",
+      "abbreviation": "",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "coding-for-data",
       "schoolname": "Florida Atlantic University",
-      "trackTitle": "N/A Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "trackTitle": "Coding for Data Track",
+      "credits": "6  credits",
+      "abbreviation": "",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "career-rotation",
       "schoolname": "Florida Atlantic University",
-      "trackTitle": "N/A Track",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
+      "trackTitle": "Career Rotation Track",
+      "credits": "6  credits",
+      "abbreviation": "",
       "registrationMessage": "Registration is now open.",
       "courseCode1": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode2": "ISM 4930 (CRN: 14176) / GEB 4956 (CRN: 14173)",
       "courseCode3": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode4": "ISM 4930 (CRN: 14177) / GEB 4956 (CRN: 14174)",
       "courseCode5": "Mar 4933 (CRN: 14178) / GEB 4956 (CRN: 14175)",
-      "seasonYear1": "Summer 2026",
-      "seasonYear2": "Fall 2026",
-      "term1StartDate": "May 16",
-      "term1EndDate": "August 7",
-      "term2StartDate": "August 22",
-      "term2EndDate": "December 4"
+      "seasonYear": "Summer 2026",
+      "startDate": "May 16",
+      "endDate": "August 7"
     },
     {
       "item": "reserve-a-seat",
-      "programName": "FAU Global Career Accelerator",
+      "programName": null,
       "registrationMessage": "Registration is now open.",
-      "phone": "(561) 299-3035",
-      "abbreviation": "FAU"
+      "phone": null,
+      "abbreviation": null
     },
     {
       "item": "begin",
-      "credits": "6 FAU credits",
-      "abbreviation": "FAU",
-      "phone": "(561) 299-3035"
+      "credits": "6  credits",
+      "abbreviation": null,
+      "phone": null
     }
   ],
   "unlv": [
